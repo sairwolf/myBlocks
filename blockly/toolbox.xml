@@ -1,0 +1,28 @@
+<category id="myBlocks" name="myBlocks">
+
+  <category id="myCategory1" name="myCategory1">
+  <block type="square_area">
+    <value name="NAME1">
+      <block type="math_number">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+    <value name="NAME2">
+      <block type="math_number">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+  </category>
+
+  <category id="myCategory2" name="myCategory2">
+  <block type="circle_area">
+    <value name="NAME3">
+      <block type="math_number">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+  </category>
+
+</category>
